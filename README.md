@@ -1,5 +1,6 @@
 # we-are-not-alone
 Explore your social network with music
 
-Using the following library to access twitter data:
-...
+Dependencies
+ * Python-Twitter for accessing the Twitter API
+ * NetworkX for Social network and graph analysis
