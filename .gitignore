@@ -103,3 +103,6 @@ ENV/
 
 # PyCharm config files
 .idea/
+
+# local configuration files
+local-config
