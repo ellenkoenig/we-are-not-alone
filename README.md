@@ -2,5 +2,5 @@
 Explore your social network with music
 
 Dependencies
- * Python-Twitter for accessing the Twitter API
- * NetworkX for Social network and graph analysis
+ * `python-Twitter` for accessing the Twitter API
+ * `networkx` for Social network and graph analysis
