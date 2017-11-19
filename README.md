@@ -1,4 +1,5 @@
-# we-are-not-alone
+# We are not alone - Social Network Analysis and Visualization
+
 Exploring the "Science Hack Day Berlin" social network with music and images. A project for the "Science Hack Day Berlin" 2017 hackathon.
 The main artifact is the [Jupyter notebook](https://github.com/ellenkoenig/we-are-not-alone/blob/master/Create%20network%20from%20twitter%20(Ellen).ipynb) . 
 
