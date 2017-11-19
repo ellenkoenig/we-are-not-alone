@@ -6,6 +6,7 @@ Dependencies
  * `python-twitter` for accessing the Twitter API
  * `networkx` for Social network and graph analysis
  * `matplotlib` for basic graph visualization
+ * `audiolazy` for sound "visualization"
 
 
 Rough idea  to convert graph into music
